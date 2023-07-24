@@ -1,5 +1,5 @@
 # My HTML Curriculum
-![Steffano's Curriculum](/assets/images/img-curriculum.png)
+![Steffano's Curriculum](/assets/images/readme-my-curriculum.png)
 
 ## 💻 About the Project
 My curriculum made using just HTML. It's a really simple way of showing my personal information, academic backgrounds and capacities. I used some tables, anchor tags, unordered lists, forms and inputs.
