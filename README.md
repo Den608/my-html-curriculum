@@ -4,7 +4,7 @@
 ## 💻 About the Project
 My curriculum made using just HTML. It's a really simple way of showing my personal information, academic backgrounds and capacities. I used some tables, anchor tags, unordered lists, forms and inputs.
 
-## 🛠 Technologies
+## 🛠 Technologies used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## ✉️ Contact me
